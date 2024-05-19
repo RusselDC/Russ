@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Russel</h1>
 <h3 align="center">I enjoy learning and love seeing my creation come to life 👍</h3>
 
-- 🔭 I’m currently working on **Attendance Monitoring System**
+- 🔭 I’m currently working on backend api for a e-commerce website
 
 - 🌱 I’m currently learning **React Native**
 
