@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Russel</h1>
 <h3 align="center">I enjoy learning and love seeing my creation come to life 👍</h3>
 
-- 🔭 I’m currently working on backend api for a e-commerce website
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working a personal project
 
 - 📫 How to reach me **delacruzruss12@gmail.com**
 
@@ -13,7 +11,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,django,python,cs,react,php,unity,postman,nodejs,sequelize,py,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,django,python,cs,react,php,unity,postman,nodejs,sequelize,py,mysql,mongodb,react,fastapi,typescript)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russeldc&show_icons=true&locale=en&layout=compact" alt="russeldc" /></p>
 
